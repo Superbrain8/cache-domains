@@ -36,6 +36,11 @@
 			"domain_files": ["frontier.txt"]
 		},
 		{
+			"name": "gaijin",
+			"description": "CDN for Gaijin Entertainment",
+			"domain_files": ["gaijin.txt"]
+		},
+		{
 			"name": "hirez",
 			"description": "CDN for hirez",
 			"domain_files": ["hirez.txt"]

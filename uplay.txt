@@ -1,3 +1,2 @@
 *.cdn.ubi.com
 *.deploy.static.akamaitechnologies.com
-dmx.upc.ubisoft.com

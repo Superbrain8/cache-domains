@@ -66,6 +66,11 @@
 			"domain_files": ["nintendo.txt"]
 		},
 		{
+			"name": "mygames",
+			"description": "CDN for mygames download servers",
+			"domain_files": ["mygames.txt"]
+		},
+		{
 			"name": "renegadex",
 			"description": "CDN for Renegade X",
 			"domain_files": ["renegadex.txt"]
